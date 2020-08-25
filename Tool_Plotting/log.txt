@@ -1,0 +1,48 @@
+
+Processing CodePlot_Compare.C...
+Use  on histDT
+Use larger Gaussian width on histMC1
+Use larger Landau width on histMC2
+Use equal width on histMC3
+hist . size() = 4
+binHeight . size() = 4
+orderHist . size() = 4
+orderDraw . size() = 4
+component 1
+component 3
+component 0
+component 2
+Drawing 3 histograms
+Drawing 0 histograms
+Drawing 2 histograms
+hist . size() = 3
+binHeight . size() = 3
+orderHist . size() = 3
+orderDraw . size() = 3
+component 1
+component 0
+component 2
+Drawing 0 histograms
+Drawing 2 histograms
+Info in <TCanvas::Print>: png file Plot_Comparing_LegendTop.png has been created
+Info in <TCanvas::Print>: png file Plot_Comparing_LegendLeft.png has been created
+hist . size() = 4
+binHeight . size() = 4
+orderHist . size() = 4
+orderDraw . size() = 4
+component 1
+component 3
+component 0
+component 2
+Drawing 3 histograms
+Drawing 0 histograms
+Drawing 2 histograms
+hist . size() = 3
+binHeight . size() = 3
+orderHist . size() = 3
+orderDraw . size() = 3
+component 1
+component 0
+component 2
+Drawing 0 histograms
+Drawing 2 histograms
