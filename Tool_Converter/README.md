@@ -6,9 +6,9 @@ Currently there is only the converter for LHE to ROOT available.
 # Execute
 
 Simply use:
-'''
+```
 root -l -b -q  macroname.C
-'''
+```
 
 To run the program in interactive mode, or:
 ```
